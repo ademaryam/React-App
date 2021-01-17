@@ -1,0 +1,12 @@
+
+@media only Screen and (max-width:1000px){
+    .large{
+    visibility: collapse;
+    }
+}
+
+@media only Screen and (min-width:1001px){
+    .small{
+        visibility: collapse;
+    }
+}
